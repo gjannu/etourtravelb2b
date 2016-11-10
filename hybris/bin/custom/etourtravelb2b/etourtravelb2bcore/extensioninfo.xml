@@ -24,7 +24,7 @@
 
 		<hmcmodule extensionclassname="com.etourtravelb2b.core.hmc.Etourtravelb2bCoreHMCExtension"/>
 
-		
+		<!-- my changes -->
 		
 		<meta key="backoffice-module" value="true"/>
 	</extension>
