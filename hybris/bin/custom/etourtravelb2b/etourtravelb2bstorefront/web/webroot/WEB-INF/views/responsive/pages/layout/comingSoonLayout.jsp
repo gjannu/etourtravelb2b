@@ -17,7 +17,7 @@
 	<div id="globalMessages">
 		<common:globalMessages/>
 	</div>
-
+  <h1>ComingSoon Products.....</h1>
 	<div id="productNotifyDiv">
 		<ol class="products-list" data-isOrderForm="false">
 		
